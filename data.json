@@ -640,4 +640,49 @@
     "summary_zh": "这场对话揭示了呼吸作为被忽视的健康支柱的惊人潜力。作者通过跨文化案例和临床研究，将古老智慧转化为现代人可操作的呼吸协议，特别强调通过简单调整睡眠姿势和呼吸模式即可实现的生理优化。这种将复杂科学转化为日常实践的叙事方式，既具备医学严谨性又保持大众亲和力，为健康焦虑时代提供了具身化的解决方案。",
     "best_quote_en": "What we're finding is that breathing is essentially a remote control for the nervous system - you can dial into a stressed state or dial into a relaxed state just by changing the cadence of your breath.",
     "best_quote_zh": "我们发现呼吸本质上是神经系统的遥控器——只需改变呼吸节奏，你就能切换至压力状态或放松状态。"
+  },{
+    "id": 29,
+    "title": "Modeling a Wealth Tax",
+    "title_zh": "财富税模型分析",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/wtax.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "This rigorous analysis reveals the compounding devastation of wealth taxes through mathematical modeling of long-term asset erosion. The 60-year simulation demonstrates how even 1-2% annual rates can claim 45-70% of founder equity, challenging common perceptions of 'moderate' wealth taxation. The inclusion of growth projections and threshold calculations adds practical relevance for entrepreneurs while exposing fundamental tensions between wealth redistribution and innovation incentives. Particularly insightful is the comparison to income tax dynamics, highlighting how repeated asset taxation creates unique multiplicative effects. While clearly technical, the analysis maintains accessibility through clear percentage visualizations, making it equally valuable for policymakers debating tax structures and founders planning exit strategies.",
+    "summary_zh": "本文通过精密的数学模型揭示了财富税长期累积效应的惊人威力：即使是1%的年度税率在60年后将侵蚀创始人45%的股权。分析巧妙结合初创企业典型成长路径，展现不同税率与起征点对技术创业者的实质影响。在看似温和的税率百分比背后，暴露了重复征税机制与科技创新激励之间的深层矛盾。这种将复杂财政政策转化为创始人可感知股权损失的论证方式，为当前全球范围内的财富税辩论提供了极具参考价值的量化视角。",
+    "best_quote_en": "A 2% wealth tax with a $50 million threshold takes about two thirds of a successful founder's stock - not through immediate confiscation, but through the silent compounding of annual percentages.",
+    "best_quote_zh": "附带5000万美元起征点的2%财富税最终将夺走创始人三分之二的股份——这不是通过直接没收，而是通过年度百分比的无情复利累积实现的。"
+  },
+  {
+    "id": 30,
+    "title": "The Volunteers Tracking ICE in Los Angeles",
+    "title_zh": "洛杉矶追踪ICE的志愿者队伍",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-volunteers-tracking-ice-in-los-angeles",
+    "tags": [
+      "analyze",
+      "politics",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "This investigative piece reveals how grassroots activists in Los Angeles employ tactical monitoring and digital documentation to counter federal immigration enforcement operations. The Harbor Area Peace Patrol's systematic tracking of ICE vehicles exposes systemic tensions between local communities and federal authority structures. Through innovative use of social media documentation and physical surveillance, these volunteers create an accountability mechanism that challenges institutional opacity. The article raises crucial questions about constitutional rights in public spaces and the paradox of Democratic politicians' anti-ICE rhetoric versus on-the-ground police collaboration. Particularly striking is the historical parallel drawn between current ICE tactics and WWII-era Japanese internment, framing immigration enforcement as a recurring pattern of state-sanctioned oppression. The activists' transformation from ordinary citizens to frontline observers demonstrates the power of civilian oversight in an era of expanding executive authority.",
+    "summary_zh": "本文通过基层志愿者对抗联邦移民执法的实践，揭示了公民监督与政府强权间的深刻矛盾。和平巡逻队用手机和计数器进行的日常监控，既是技术时代的抵抗艺术，也是宪法第一修正案的现实考验。报道暴露出洛杉矶市政府反ICE表态与警方现场协作的矛盾性，折射出民主党在遏制右翼威权主义上的结构性无力。日裔移民历史的穿插，将当前移民执法置于美国种族压迫的漫长光谱中审视，赋予公民监控行为深厚的历史重量。",
+    "best_quote_en": "\"We'll tell our grandkids that we defeated fascism with six-dollar clickers.\" - Victor Maldonado",
+    "best_quote_zh": "『我们要告诉孙辈，是用六块钱的计数器打败了法西斯主义。』——维克多·马尔多纳多"
   }]
