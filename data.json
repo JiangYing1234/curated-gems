@@ -706,4 +706,49 @@
     "summary_zh": "这部纪录片通过工人阶级女性的抗争视角，重新书写了劳工运动的历史叙事。矿工妻子们在罢工中从厨房走向街头，最终蜕变为社区领袖的人生轨迹，展现了集体行动对个体觉醒的催化作用。影片巧妙捕捉了草根抗争中务实生存需求与意识形态标签之间的张力——当伦敦记者追问女权主义理论时，她们的回答简单有力：'我们只是想知道如何喂饱孩子'。四十年后，这些白发活动家眼中依然跳动着炽热的火光，证明真正的社会变革往往始于最朴素的生存尊严诉求。",
     "best_quote_en": "She was one iron lady, we were hundreds.",
     "best_quote_zh": "她是唯一的铁娘子，而我们有数百个"
+  },{
+    "id": 32,
+    "title": "Essentials: Time Perception, Memory & Focus",
+    "title_zh": "要义：时间感知、记忆与专注",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-time-perception-memory-focus",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "science"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "科学研究"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "This Essentials episode from Huberman Lab provides a comprehensive exploration of time perception through the lens of biological rhythms and neurochemistry. The analysis begins by establishing the foundational relationship between circadian and circannual rhythms and their hormonal regulation via light exposure. Particularly valuable is the practical integration of this knowledge into actionable strategies for optimizing productivity through timed light exposure, structured work intervals aligned with ultradian cycles, and the strategic timing of exercise. The discussion on neurotransmitter dynamics (dopamine and serotonin) offers fresh insights into subjective time perception, effectively bridging theoretical neuroscience with real-world application. While the content is rich in scientific detail, some connections between trauma's impact on time perception and practical interventions could benefit from deeper exploration. The episode's strength lies in its successful synthesis of complex neurobiological concepts into tangible tools for enhancing focus and time management.",
+    "summary_zh": "本期《Huberman Lab要义》节目深入探讨生物节律与神经化学对时间感知的影响。内容亮点在于将复杂的时间生物学机制转化为可操作的效率提升工具：从昼夜节律的光照调节，到超昼夜周期的工作安排，再到神经递质对主观时间感的调控，形成完整的认知闭环。节目不仅解析了多巴胺与血清素在时间感知中的对抗机制，还创新性地将创伤经历与时间过载现象相联结。然而，关于季节性情绪波动与时间感知的关系部分稍显薄弱。最大的应用价值在于提供了基于脑科学的时间管理矩阵——通过结构化功能单元安排、精准的光照干预和运动时机选择，实现认知效率的系统优化。",
+    "best_quote_en": "The perception of time is not just a clock in the brain, but an emergent property shaped by the dance between our neurochemistry and environmental rhythms - a dance we can choreograph through deliberate light exposure and activity scheduling.",
+    "best_quote_zh": "时间感知并非大脑内置的时钟，而是神经化学与环境节律共舞的涌现属性——通过精准的光照调控和活动编排，我们能够成为这场舞蹈的编导。"
+  },
+  {
+    "id": 33,
+    "title": "The Tim Ferriss Show Transcripts: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
+    "title_zh": "蒂姆·费里斯秀文字稿：与尼克·科科纳斯和诺贝尔奖得主理查德·塞勒对话——现实经济学、规避赢家诅咒、利用诱惑绑定及挑战传统（第830期）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/10/richard-thaler-transcript/",
+    "tags": [
+      "learn",
+      "writing-content",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "写作内容",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-10-11",
+    "summary_en": "This transcript of Tim Ferriss's conversation with Nobel laureate Richard Thaler and entrepreneur Nick Kokonas offers a rare convergence of behavioral economics and practical entrepreneurship. Thaler dismantles traditional economic assumptions through the lens of 'misbehaving' human agents, challenging the foundational MAX model while introducing behavioral anomalies like the winner's curse. Kokonas bridges theory to practice, demonstrating how first-principles thinking applies to restaurant innovation and reservation systems. Together, they reveal the cognitive traps in decision-making while providing actionable frameworks like temptation bundling for personal improvement. The dialogue stands out for its intellectual rigor and real-world application, though some concepts could benefit from concrete examples. Particularly valuable is the deconstruction of economics as both social science and mathematical modeling exercise, inviting listeners to reconsider their own decision-making heuristics in professional and personal contexts.",
+    "summary_zh": "本期对话展现了行为经济学之父理查德·塞勒与连续创业者尼克·科科纳斯的思想碰撞。塞勒以诺贝尔奖得主的视角，解构传统经济学中'理性人'假设的局限，揭示真实世界中的'非理性'决策模式。科科纳斯则从餐饮创新到票务系统改革，演绎如何将行为经济学原理应用于商业实践。双方围绕'赢家诅咒''诱惑绑定'等关键概念展开深度探讨，既批判学术模型的简化倾向，又为日常决策提供切实工具。这种理论与实践的交融，不仅刷新了我们对经济学的认知，更启发企业家在复杂市场环境中构建更人性化的商业策略。",
+    "best_quote_en": "Economists are jealous of physics... they want a model that's as accurate as the model you use to send up a rocket. The problem is that figuring out what people do isn't a solvable equation - we're modeling misbehaving agents, not perfect optimizers.",
+    "best_quote_zh": "经济学家总在嫉妒物理学...他们渴望建立像火箭发射般精确的模型。但问题在于，人类行为永远无法用完美方程式解构——我们研究的从来不是理性最优解，而是真实世界里'不守规矩'的决策者。"
   }]
