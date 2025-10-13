@@ -751,4 +751,51 @@
     "summary_zh": "本期对话展现了行为经济学之父理查德·塞勒与连续创业者尼克·科科纳斯的思想碰撞。塞勒以诺贝尔奖得主的视角，解构传统经济学中'理性人'假设的局限，揭示真实世界中的'非理性'决策模式。科科纳斯则从餐饮创新到票务系统改革，演绎如何将行为经济学原理应用于商业实践。双方围绕'赢家诅咒''诱惑绑定'等关键概念展开深度探讨，既批判学术模型的简化倾向，又为日常决策提供切实工具。这种理论与实践的交融，不仅刷新了我们对经济学的认知，更启发企业家在复杂市场环境中构建更人性化的商业策略。",
     "best_quote_en": "Economists are jealous of physics... they want a model that's as accurate as the model you use to send up a rocket. The problem is that figuring out what people do isn't a solvable equation - we're modeling misbehaving agents, not perfect optimizers.",
     "best_quote_zh": "经济学家总在嫉妒物理学...他们渴望建立像火箭发射般精确的模型。但问题在于，人类行为永远无法用完美方程式解构——我们研究的从来不是理性最优解，而是真实世界里'不守规矩'的决策者。"
+  },{
+    "id": 34,
+    "title": "What is the future of English studies?",
+    "title_zh": "英语研究的未来是什么？",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/07/07/whats-is-the-future-of-english-studies/",
+    "tags": [
+      "learn",
+      "education",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-07-07",
+    "summary_en": "This insightful reflection on the crisis in English studies reveals a discipline at a crossroads. While the author initially questions the survivalist rhetoric surrounding the field, the conference exposes systemic challenges: standardized testing's stranglehold on creative engagement, AI's disruption of traditional learning practices, and a concerning erosion of reading joy. The student's stark declaration ('Reading is boring') crystallizes the existential threat – the divorce between narrative wonder and academic practice. Yet hope emerges through innovative pedagogical approaches: embracing incomprehension as a creative force, leveraging personal narratives as cultural bridges, and preserving opacity in translation. Particularly compelling is the tension between structure and chaos in creative processes, symbolized by the contrast between Carpenter's methodical poetic unfolding and Mensah's acknowledgment of creative disarray. The analysis ultimately suggests that English studies' survival lies not in preservation but reinvention – reclaiming reading as experiential magic while addressing modern educational realities.",
+    "summary_zh": "本文深刻揭示了英语文学教育面临的系统性危机：标准化考试压抑创造力、AI改变学习模式、阅读愉悦感消失。学生直言'阅读很无聊'的案例尤其刺痛，折射出文学体验与学术实践的割裂。但作者同时展现了希望——通过'理解的不确定性'工作坊、跨文化个人叙事、翻译中的留白艺术等创新教学法，重新连接文学魔力与现实教育。会议提出的'混乱与秩序共生'创作理念，恰成为学科突围的隐喻：既要保留文本解读的惊奇感，又需直面人工智能时代的教育重构。这场危机本质上是人文精神与技术理性的当代角力。",
+    "best_quote_en": "Reading was magic, it seemed to me. I couldn't imagine a better thing than spending three years reading stories. How miserable to think of today's young readers having all that pleasure squashed out of them.",
+    "best_quote_zh": "阅读于我如同魔法，无法想象还有比花三年时间读故事更美妙的事。想到当今年轻读者被剥夺这种愉悦，何其可悲。"
+  },
+  {
+    "id": 35,
+    "title": "Sublinear Utility in Population and other Uncommon Utilitarianism",
+    "title_zh": "人口中的亚线性效用及其他非传统功利主义",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/NRxn6R2tesRzzTBKG/sublinear-utility-in-population-and-other-uncommon",
+    "tags": [
+      "learn",
+      "society",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "This innovative exploration challenges classical utilitarian frameworks by proposing a sublinear utility model for population ethics. The author develops a computational diversity theory of value where moral weight depends on novel information patterns rather than mere duplication, introducing concepts like 'value space saturation' and differential scaling for humans, shrimp, and post-humans. The analysis reveals a sophisticated approach to moral mathematics that reconciles intuition with consequentialist principles, particularly in its treatment of simulation ethics and observational impact. While offering fresh perspectives for effective altruism, the framework raises important questions about interspecies value comparison and the quantification of experiential diversity that merit further philosophical examination.",
+    "summary_zh": "本文提出了一种突破性的功利主义模型，将道德价值与计算多样性而非单纯的生命数量挂钩。作者通过模拟实验论证效用函数在人口增长中的亚线性特征，创造性地引入'价值空间饱和'概念，并区分人类、虾类和后人类的不同道德权重曲线。这种将信息论视角引入道德哲学的分析方法，既挑战了传统有效利他主义的线性假设，也为人工智能伦理和跨物种道德考量提供了新的思考维度。",
+    "best_quote_en": "Utility is bounded and asymptotically sublinear in number of human lives, but superlinear or ~linear in the ranges we will ever have to care about.",
+    "best_quote_zh": "效用函数在人类生命数量上是有界且渐进亚线性的，但在我们实际需要关心的数量范围内呈现超线性或近似线性的特征。"
   }]
