@@ -841,4 +841,71 @@
     "summary_zh": "本文深入剖析了委内瑞拉反对派领袖玛丽亚·科里纳·马查多获得诺贝尔和平奖背后的地缘政治悖论。文章揭示了一个令人不安的联盟：马查多一方面自诩民主斗士，另一方面却公开支持特朗普政府对委内瑞拉的军事施压。这种矛盾折射出反对派运动在推翻马杜罗政权过程中的道德妥协，以及美国门罗主义在拉美的死灰复燃。作者敏锐指出诺贝尔和平奖沦为政治工具的风险，同时质疑以未来承诺而非实际成就作为授奖依据的正当性。文中关于拉美左翼政府集体谴责马杜罗的细节，暗示着地区政治格局的微妙转变，而马查多对特朗普军事行动的默许，则为美国干预主义提供了新的合法性外衣。",
     "best_quote_en": "\"Once Maduro goes, the Cuban regime will follow, the Nicaraguan regime will follow, and for the first time in history, we will have the Americas free of communism and narco-dictatorships.\"",
     "best_quote_zh": "“一旦马杜罗下台，古巴政权将会跟进，尼加拉瓜政权也会跟进，历史上首次，我们将迎来一个没有共产主义和毒品独裁的美洲。”"
+  },{
+    "id": 38,
+    "title": "Book of the month: Tahir Hamut Izgil",
+    "title_zh": "每月一书：塔希尔·哈姆特·伊兹吉尔",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/06/30/book-of-the-month-tahir-hamut-izgil/",
+    "tags": [
+      "learn",
+      "writing-content",
+      "politics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "写作内容",
+      "政治时事",
+      "案例研究"
+    ],
+    "date": "2025-06-30",
+    "summary_en": "Tahir Hamut Izgil's memoir 'Waiting to Be Arrested at Night' offers a harrowing yet poetic account of Uyghur persecution in Xinjiang, masterfully translated by Joshua L. Freeman. The work stands out for its dual exploration of linguistic oppression and poetic resistance, revealing how state control extends even to renaming citizens and weaponizing everyday language. Izgil's narrative exposes the cruel absurdity of bureaucratic oppression through vivid examples like mandatory disco dancing for clerics and retroactive book bans. While the memoir's Western publication success raises questions about geopolitical narratives, its literary merits - particularly the interplay between prose and poetry - create an urgent bridge for understanding cultural erasure. The book's greatest strength lies in balancing personal trauma with broader reflections on diaspora identity and the paradoxical role of language as both tool of suppression and medium of preservation.",
+    "summary_zh": "塔希尔·哈姆特·伊兹吉尔的回忆录《等待夜晚被捕》以诗意的笔触揭示了新疆维吾尔族人的生存困境。作品通过'禁名清单'和'电视迪斯科'等荒诞现实，展现系统性文化抹除的残酷机制。译者在序言中强调维吾尔诗歌传统如何成为抵抗武器，这一洞见使本书超越普通回忆录，成为文化存续的见证。值得深思的是，虽然书中描述的压迫事实确凿，但其在西方出版的成功也折射出地缘政治叙事的选择性——那些符合'自由世界'自我认知的故事更易获得传播。这种双重性恰恰增强了作品的现实意义：既是个体逃亡史，也是语言如何在极端环境下保持文化火种的案例研究。",
+    "best_quote_en": "'A name is a person's most personal possession. If he cannot hold on to his own name, what hope does he have of keeping anything else?'",
+    "best_quote_zh": "'名字是人最私有的财产。如果一个人连自己的名字都保不住，还能指望保住什么呢？'"
+  },
+  {
+    "id": 39,
+    "title": "From the archive: ‘Infertility stung me’: Black motherhood and me – podcast",
+    "title_zh": "来自档案：‘生育之痛刺痛了我’：黑人母亲与我——播客",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/news/audio/2025/oct/15/from-the-archive-infertility-stung-me-black-motherhood-and-me-podcast",
+    "tags": [
+      "solve",
+      "society"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "This deeply personal podcast episode explores the intersectionality of race, gender, and reproductive health through Edna Bonhomme's journey with infertility. The content offers a critical examination of how Black women navigate systemic barriers in reproductive healthcare, challenging assumptions about modern fertility control while blending memoir with socio-political analysis. What makes this particularly compelling is its unflinching look at the emotional toll of medical racism and the complex decisions surrounding IVF treatment. The narrative raises important questions about who gets to control reproductive narratives in modern medicine and how cultural expectations of motherhood intersect with racial identity.",
+    "summary_zh": "这篇播客通过作者Edna Bonhomme的生育困境，深刻揭示了种族、性别与生殖健康的复杂交织。内容超越个人叙事，将黑人女性在生殖医疗系统中的结构性障碍置于聚光灯下，既是对现代生育自主权迷思的批判，也是医疗种族主义的血泪证言。最发人深省的是其在个人创伤与社会批判之间建立的张力——当生育自由遭遇系统性歧视，所谓的医学进步究竟为谁服务？这种个体经验与集体困境的共振，重新定义了母职叙事的政治维度。",
+    "best_quote_en": "Infertility stung me not just as a personal failure, but as a collective betrayal of the promises made to Black women about bodily autonomy.",
+    "best_quote_zh": "不孕症刺痛我的方式，不仅是个人挫败，更是对黑人女性身体自主权承诺的集体背叛。"
+  },
+  {
+    "id": 40,
+    "title": "GPT-4o",
+    "title_zh": "GPT-4o",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/gpt-4o",
+    "tags": [
+      "solve",
+      "ai-research",
+      "ai-product",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "AI产品",
+      "未来预测"
+    ],
+    "date": "2024-05-13",
+    "summary_en": "OpenAI's GPT-4o announcement reveals two strategic pillars shaping the future of AI accessibility and interface design. The company's commitment to providing world-class AI tools free of charge demonstrates a deliberate market positioning strategy that balances commercial interests with mass adoption goals. The breakthrough in voice/video interface design signals a paradigm shift in human-computer interaction, achieving near-human responsiveness that could redefine user expectations. While the philanthropic language emphasizes democratization, the unstated subtext reveals a sophisticated growth strategy - establishing OpenAI's models as foundational infrastructure for third-party innovation. The tension between open access and premium services raises intriguing questions about sustainable business models in AI development.",
+    "summary_zh": "OpenAI通过GPT-4o的发布展现了人工智能普惠化与商业化的双重战略。免费提供顶尖模型不仅体现技术民主化的理想，更暗含构建行业生态标准的深意。新型语音交互界面突破传统指令式交互，预示人机关系将进入更自然的对话时代。这种技术跃进既令人振奋，也引发对AI垄断与伦理影响的新思考。",
+    "best_quote_en": "Getting to human-level response times and expressiveness turns out to be a big change. The original ChatGPT showed a hint of what was possible with language interfaces; this new thing feels viscerally different.",
+    "best_quote_zh": "达到人类水平的响应时间和表现力被证明是一个重大突破。最初的ChatGPT展示了语言接口的可能性；这个新事物给人的感觉截然不同。"
   }]
