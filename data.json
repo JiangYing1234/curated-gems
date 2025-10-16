@@ -908,4 +908,97 @@
     "summary_zh": "OpenAI通过GPT-4o的发布展现了人工智能普惠化与商业化的双重战略。免费提供顶尖模型不仅体现技术民主化的理想，更暗含构建行业生态标准的深意。新型语音交互界面突破传统指令式交互，预示人机关系将进入更自然的对话时代。这种技术跃进既令人振奋，也引发对AI垄断与伦理影响的新思考。",
     "best_quote_en": "Getting to human-level response times and expressiveness turns out to be a big change. The original ChatGPT showed a hint of what was possible with language interfaces; this new thing feels viscerally different.",
     "best_quote_zh": "达到人类水平的响应时间和表现力被证明是一个重大突破。最初的ChatGPT展示了语言接口的可能性；这个新事物给人的感觉截然不同。"
+  },{
+    "id": 41,
+    "title": "Book of the month: Julian Maka’a",
+    "title_zh": "本月推荐书籍：朱利安·马卡阿的作品",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/05/29/book-of-the-month-julian-makaa/",
+    "tags": [
+      "learn",
+      "education",
+      "society",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "社会议题",
+      "案例研究"
+    ],
+    "date": "2025-05-29",
+    "summary_en": "This analysis of Julian Maka'a's short story collection reveals the complex dynamics of representing marginalized Pacific Island literature in global contexts. The work's value lies in its authentic portrayal of Solomon Islands culture through taboo exploration of sexual health issues and intergenerational educational sacrifices. While structural inconsistencies challenge Western readers, these perceived flaws paradoxically highlight the collection's cultural authenticity and the urgent need for diverse storytelling forms. The book serves as both cultural documentation and a meta-commentary on the challenges of cross-cultural publishing, forcing readers to confront their literary biases. Its greatest contribution may be exposing how editorial standards can unintentionally suppress unique narrative voices from small island nations.",
+    "summary_zh": "这部所罗门群岛短篇小说集展现了太平洋岛国文学在全球语境下的独特价值与困境。作者通过性健康话题的坦率描写和寄宿学校教育的刻画，揭示了岛民在传统禁忌与现代发展间的挣扎。尽管存在叙事结构上的不连贯，这种‘粗糙感’恰恰成为反殖民叙事的注解，挑战西方主导的文学评判标准。作品既是对本土文化的忠实记录，也隐喻了边缘文学在全球化传播中的妥协与坚持，为世界文学版图补上了重要一块拼图。",
+    "best_quote_en": "'She said they had differences in the job I should take up after I graduate in form five. My mother wanted me to become a nurse... My father wanted me to be a teacher.'",
+    "best_quote_zh": "‘她在用当地方言和皮钦语写的短信里解释，说她和爸爸经常讨论我的前途——简单说就是教育能带来什么好处。她说他们对我的职业选择有分歧：母亲希望我当护士，父亲想让我做教师。’"
+  },
+  {
+    "id": 42,
+    "title": "Another Guardian link to the Keira Knightley film The Woman in Cabin 10 | Brief letters",
+    "title_zh": "《第10号舱的女人》基拉·奈特利电影与《卫报》的另一联系 | 读者来信摘要",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/media/2025/oct/15/another-guardian-link-to-the-keira-knightley-film-the-woman-in-cabin-10",
+    "tags": [
+      "analyze",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "This eclectic collection of Guardian letters presents a fascinating study in editorial curation. The primary connection to Keira Knightley's film reveals an interesting interplay between journalism and entertainment, particularly through the Shrapnel family legacy – Norman's journalistic influence persisting in his grandson's screenwriting work. The analysis of English proficiency requirements raises pertinent questions about policy practicality versus political posturing. However, the inclusion of humorous anecdotes about Jilly Cooper's novels feels somewhat disjointed from the core themes, creating a narrative tension between serious commentary and lighthearted reader contributions. The piece ultimately serves as a microcosm of newspaper readership dynamics, balancing cultural references with civic engagement.",
+    "summary_zh": "《卫报》的这组读者来信展现了编辑选择的多样性魅力。基拉·奈特利主演电影与Shrapnel新闻世家的联系，揭示了新闻报道与影视创作的有趣互动。关于移民英语要求的讨论提出了政策现实性的重要问题，但夹杂其中的Jilly Cooper小说轶事略显突兀，形成了严肃评论与轻松趣闻的微妙张力。文章整体犹如当代纸媒读者生态的微缩图谱，在文化指涉与公民参与间寻找平衡。",
+    "best_quote_en": "His 'ironic edge and sharp eye for social detail made him the much-imitated master of a whole generation of Guardian writers' - a testament to journalism's enduring influence across generations.",
+    "best_quote_zh": "'他犀利的讽刺笔触和对社会细节的敏锐洞察，使其成为一代《卫报》作家争相效仿的大师'——这句话生动诠释了新闻精神在代际间的传承力量。"
+  },
+  {
+    "id": 43,
+    "title": "Among the Talibros",
+    "title_zh": "在塔利班兄弟中",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/among-the-talibros",
+    "tags": [
+      "inspire",
+      "society",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "This incisive analysis dissects the dangerous allure of alt-travel influencers who package geopolitical instability as edgy tourism content. By examining viral stunts like mock executions in Afghanistan and distorted portrayals of women's rights under Taliban rule, the piece reveals how creators weaponize irony to undermine mainstream narratives while promoting conspiracy-adjacent worldviews. The critique exposes the strategic manipulation of Gen Z's distrust in institutions, where influencers exploit algorithmic incentives to replace journalistic rigor with adrenaline-fueled contrarianism. Particularly compelling is the examination of how these content strategies intersect with far-right ideologies, transforming complex socio-political realities into digestible meme formats that prioritize engagement over truth.",
+    "summary_zh": "本文犀利剖析了另类旅游网红将地缘政治危机包装为猎奇内容的危险倾向。通过阿富汗伪处决视频和塔利班统治下女性权益的扭曲呈现，揭示创作者如何用反讽话语解构主流叙事，同时贩卖阴谋论思维。分析深刻指出这些内容策略与极右翼意识形态的合流，将复杂的社会政治现实压缩成算法青睐的模因格式，用肾上腺素刺激取代新闻专业主义。尤其发人深省的是对Z世代制度性不信任的利用——当真相成为可定制的内容产品，社会共识的瓦解便成了流量经济的燃料。",
+    "best_quote_en": "By chipping away at official narratives, they're able to position themselves as the only reliable source of information, getting viewers hooked on a news cycle dominated by rumor and speculation.",
+    "best_quote_zh": "通过不断侵蚀官方叙事，他们将自己塑造成唯一可靠的信息源，让观众沉迷于被谣言和猜测主导的新闻循环。"
+  },
+  {
+    "id": 44,
+    "title": "What’s in my NOW? — Alison Qiu",
+    "title_zh": "我的当下清单——Alison Qiu",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-alison-qiu/",
+    "tags": [
+      "analyze",
+      "health-wellness",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "健康养生",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "Alison Qiu's curated list offers a fascinating glimpse into practical self-care strategies for modern professionals. The software engineer's recommendations balance physical well-being with digital mindfulness, revealing a nuanced approach to work-life integration. Her emphasis on affordable, space-saving fitness solutions like the mini stair stepper demonstrates an understanding of urban living constraints, while the digital tools showcase innovative uses of technology for mental health. The inclusion of AI therapy app Sonia highlights growing acceptance of tech-assisted emotional support, though it raises interesting questions about the evolving role of AI in personal wellness. Qiu's analog hobbies like miniature building kits suggest a conscious effort to maintain tactile engagement in an increasingly digital world. The collection as a whole serves as a case study in personalized wellbeing optimization, blending cost-effectiveness with psychological benefits. Particularly noteworthy is how these tools collectively address different aspects of stress management - physical movement, creative focus, and emotional processing - creating a holistic system for urban professionals.",
+    "summary_zh": "Alison Qiu的当下清单展现了都市职业人士独特的自我关怀体系。软件工程师的日常选择巧妙平衡了物理健康与数字疗愈，揭示了现代生活压力下的应对智慧。微型踏步机的选用体现了对城市居住空间限制的务实考量，AI心理治疗应用Sonia则折射出Z世代对科技赋能情感支持的开放态度。值得玩味的是，实体拼装模型作为数字排毒的媒介，暗示着在虚拟化进程中保持触觉体验的重要性。这套方案的价值不仅在于单个物件的功能性，更在于其系统性——通过物理运动、创造性专注、情绪释放三个维度构建起立体的压力管理系统。其中DIY模型作为冥想替代品的创新用法，为高压行业从业者提供了可复制的减压范式。",
+    "best_quote_en": "Everyone has something to teach you. Learn from whomever you can.",
+    "best_quote_zh": "每个人都有值得你学习的地方。向任何人请教。"
   }]
