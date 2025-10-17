@@ -1001,4 +1001,69 @@
     "summary_zh": "Alison Qiu的当下清单展现了都市职业人士独特的自我关怀体系。软件工程师的日常选择巧妙平衡了物理健康与数字疗愈，揭示了现代生活压力下的应对智慧。微型踏步机的选用体现了对城市居住空间限制的务实考量，AI心理治疗应用Sonia则折射出Z世代对科技赋能情感支持的开放态度。值得玩味的是，实体拼装模型作为数字排毒的媒介，暗示着在虚拟化进程中保持触觉体验的重要性。这套方案的价值不仅在于单个物件的功能性，更在于其系统性——通过物理运动、创造性专注、情绪释放三个维度构建起立体的压力管理系统。其中DIY模型作为冥想替代品的创新用法，为高压行业从业者提供了可复制的减压范式。",
     "best_quote_en": "Everyone has something to teach you. Learn from whomever you can.",
     "best_quote_zh": "每个人都有值得你学习的地方。向任何人请教。"
+  },{
+    "id": 45,
+    "title": "RLF Collected podcast",
+    "title_zh": "RLF Collected播客",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/05/13/rlf-collected-podcast/",
+    "tags": [
+      "guide",
+      "music-arts",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "音乐艺术",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2025-05-13",
+    "summary_en": "The RLF Collected podcast offers a unique window into the creative processes and challenges faced by contemporary writers, leveraging over a decade of archival recordings from the Royal Literary Fund. By blending these historical insights with fresh conversations hosted by notable figures like Sonia Faleiro and Julia Copus, the podcast creates a dynamic dialogue between past and present literary voices. This format not only preserves valuable artistic heritage but also contextualizes it within modern concerns like diversity in publishing and cross-cultural storytelling. The inclusion of international perspectives, particularly from writers of the global majority, adds critical depth to discussions about representation in literature. What makes this project particularly compelling is its ability to humanize the writing process, revealing both the vulnerabilities and triumphs inherent in creative work while challenging mainstream publishing norms.",
+    "summary_zh": "RLF Collected播客通过整合英国皇家文学基金会逾十年的作家访谈档案，为听众呈现了当代写作生态的多元面貌。节目巧妙地将历史录音与当下活跃的文学创作者的对话交织，构建出跨越时空的创作对话。尤其在全球化叙事方面，邀请如印度作家Deepa Anappara等国际声音参与讨论，犀利地指出了英语主流出版市场与地方性创作视角之间的认知鸿沟。这种档案活化模式不仅保存了珍贵的创作记忆，更通过犯罪小说家、视觉诗人等不同领域创作者的坦诚分享，解构了外界对作家工作的浪漫化想象，展现出文学创作中技术性与人性温度并存的真实图景。",
+    "best_quote_en": "The conversations present a lively, funny, surprising and often moving account of what it means to be a writer in the early twenty-first century.",
+    "best_quote_zh": "这些对话生动、幽默、充满惊喜，并时常感人至深地展现了二十一世纪初作为作家意味着什么。"
+  },
+  {
+    "id": 46,
+    "title": "Donald Trump’s Dream Palace of Puffery",
+    "title_zh": "唐纳德·特朗普的浮夸梦想宫殿",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-dream-palace-of-puffery",
+    "tags": [
+      "update",
+      "politics"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "Susan B. Glasser's analysis reveals the Trump administration's systematic erosion of press freedoms, particularly through the Pentagon's restrictive press policies and the White House's curated media environment. The article highlights the replacement of critical journalism with compliant media figures like Brian Glenn of Real America’s Voice, who prioritize flattery over hard-hitting questions. This shift not only undermines democratic accountability but also reflects Trump's insatiable need for affirmation, creating a dangerous feedback loop of unchecked power. The piece serves as a cautionary tale about the long-term implications of normalizing state-controlled narratives in a democracy, emphasizing that the Pentagon's press restrictions are not isolated incidents but precursors to broader authoritarian governance. The author's use of specific interactions and institutional changes provides concrete evidence of deteriorating media independence.",
+    "summary_zh": "本文犀利剖析特朗普政府如何系统性侵蚀新闻自由，通过五角大楼的媒体管控和白宫精心策划的记者会，构建一个只有奉承者的信息茧房。文章以布莱恩·格伦等御用记者的谄媚提问为例，揭示真相让位于赞歌的危险趋势，直指权力不受制约时对民主根基的腐蚀。作者警示这种'克里姆林化'的媒体环境并非孤立事件，而是威权统治的先兆——当总统只听取镜像般的赞美，宪法赋予的制衡机制便名存实亡。文中对特朗普心理需求的洞察尤为深刻，展现了一个无限渴求肯定的领导者如何将国家机器转变为自我膨胀的工具。",
+    "best_quote_en": "\"In his second term, it was no longer enough to call the real news fake; now it’s the fake news that gets to displace actual journalists in order to playact the real thing.\"",
+    "best_quote_zh": "“在第二个任期内，仅仅把真新闻说成假新闻已经不够了；现在要让假新闻取代真正的记者，来扮演真实的新闻报道。”"
+  },
+  {
+    "id": 47,
+    "title": "What I Wish Someone Had Told Me",
+    "title_zh": "我希望有人告诉我的事",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
+    "tags": [
+      "solve",
+      "leadership",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "创业策略"
+    ],
+    "date": "2023-12-21",
+    "summary_en": "This candid reflection on entrepreneurial wisdom offers a compelling mix of tactical advice and philosophical grounding. The most impactful insights emerge from the tension between long-term vision and rapid iteration—the suggestion that 'plans should be measured in decades, execution should be measured in weeks' crystallizes this dichotomy effectively. While many points echo standard startup advice, the emphasis on organizational physics ('Don't fight the business equivalent of the laws of physics') adds unique depth. The recurring theme of team dynamics stands out, particularly the nuanced view that superstars must be evaluated on net organizational impact rather than individual brilliance. One might question whether the 'delete more stuff than you think' principle adequately addresses the complexities of focus in scaling organizations, but overall, these principles form a robust mental model for founders navigating growth challenges.",
+    "summary_zh": "这篇创业智慧箴言在战术建议与哲学基础间取得了精妙的平衡。最具启发性的是其对长期愿景与快速执行矛盾的洞察——'规划要以十年计，执行要以周为单位'的提法尤为精辟。关于团队建设的多层次讨论（从明星员工的净值影响到反官僚斗争）展现了组织管理的复杂生态。'不要对抗商业世界的物理法则'的比喻为战略选择提供了新颖的思考维度。值得注意的是，文中对'专注高信念领域'的强调在当今复杂商业环境中更具现实意义，但关于'删除冗余'的建议可能低估了规模化组织的协调成本。这些经验之谈为创业者构建认知框架提供了宝贵参考，尤其在不确定环境下保持战略定力方面。",
+    "best_quote_en": "Plans should be measured in decades, execution should be measured in weeks.",
+    "best_quote_zh": "规划要以十年计，执行要以周为单位。"
   }]
