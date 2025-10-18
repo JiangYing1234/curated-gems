@@ -1066,4 +1066,27 @@
     "summary_zh": "这篇创业智慧箴言在战术建议与哲学基础间取得了精妙的平衡。最具启发性的是其对长期愿景与快速执行矛盾的洞察——'规划要以十年计，执行要以周为单位'的提法尤为精辟。关于团队建设的多层次讨论（从明星员工的净值影响到反官僚斗争）展现了组织管理的复杂生态。'不要对抗商业世界的物理法则'的比喻为战略选择提供了新颖的思考维度。值得注意的是，文中对'专注高信念领域'的强调在当今复杂商业环境中更具现实意义，但关于'删除冗余'的建议可能低估了规模化组织的协调成本。这些经验之谈为创业者构建认知框架提供了宝贵参考，尤其在不确定环境下保持战略定力方面。",
     "best_quote_en": "Plans should be measured in decades, execution should be measured in weeks.",
     "best_quote_zh": "规划要以十年计，执行要以周为单位。"
+  },{
+    "id": 48,
+    "title": "Helion Needs You",
+    "title_zh": "Helion需要你",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/helion-needs-you",
+    "tags": [
+      "solve",
+      "design",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2022-07-13",
+    "summary_en": "The article outlines Helion Energy's ambitious goals in achieving commercially viable nuclear fusion by 2024, with plans to demonstrate net energy gain (Q > 1) and design mass-producible fusion generators. While celebrating the company's scientific progress over eight years, the author emphasizes that technical breakthroughs alone are insufficient for transforming the global energy economy. Key challenges now lie in engineering reliable systems, establishing manufacturing infrastructure, and navigating complex grid integration and regulatory landscapes. The piece transitions into a recruitment call, highlighting critical engineering roles needed to operationalize fusion technology. This dual focus on technological promise and practical implementation challenges offers a realistic perspective on fusion energy's path to market, balancing visionary goals with concrete workforce needs.",
+    "summary_zh": "本文阐述了Helion Energy在核聚变能源商业化方面的突破性进展与当前挑战。文章指出，尽管公司在科学验证层面已取得显著成果（计划2024年实现Q>1净能量增益），但实现规模化生产仍面临工程制造、供应链建设、电网适配等系统性难题。作者创造性提出，清洁能源革命的瓶颈已从基础科研转向高端工程人才储备，通过具体招聘岗位分析，揭示了聚变能源产业化对复合型技术人才的迫切需求。这种将前沿科技突破与产业化路径深度结合的视角，为理解新能源革命提供了新的认知框架。",
+    "best_quote_en": "The biggest input to the degree and speed of success at the company is now the talent of the people who join the team.",
+    "best_quote_zh": "公司成功程度和速度的最大输入变量，现在取决于加入团队的人才质量。"
   }]
