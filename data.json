@@ -1089,4 +1089,27 @@
     "summary_zh": "本文阐述了Helion Energy在核聚变能源商业化方面的突破性进展与当前挑战。文章指出，尽管公司在科学验证层面已取得显著成果（计划2024年实现Q>1净能量增益），但实现规模化生产仍面临工程制造、供应链建设、电网适配等系统性难题。作者创造性提出，清洁能源革命的瓶颈已从基础科研转向高端工程人才储备，通过具体招聘岗位分析，揭示了聚变能源产业化对复合型技术人才的迫切需求。这种将前沿科技突破与产业化路径深度结合的视角，为理解新能源革命提供了新的认知框架。",
     "best_quote_en": "The biggest input to the degree and speed of success at the company is now the talent of the people who join the team.",
     "best_quote_zh": "公司成功程度和速度的最大输入变量，现在取决于加入团队的人才质量。"
+  },{
+    "id": 49,
+    "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
+    "title_zh": "神经科学精要：大脑运作与感知世界的机制 | David Berson博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-brain-functions-interprets-the-world-dr-david-berson",
+    "tags": [
+      "inspire",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "This illuminating discussion with circadian biology pioneer David Berson reveals neuroscience's cutting edge through four key lenses: 1) The retina's dual role as light sensor and circadian regulator via melanopsin cells, 2) The cerebellum's underappreciated function in movement precision and cognitive timing, 3) Midbrain integration of multisensory data for environmental navigation, and 4) Neuroplasticity's stunning demonstration in visual cortex repurposing. While technical in detailing retinal ganglion cells and vestibulo-ocular reflexes, the conversation maintains accessibility through practical applications - from optimizing light exposure for circadian health to understanding motion sickness mechanisms. The basal ganglia discussion bridges neuroscience fundamentals with contemporary behavioral psychology, though more clinical correlations could enhance translational value. This content excels in demonstrating how fundamental research informs our daily biological experience.",
+    "summary_zh": "本期对话通过视觉神经机制与生物钟调控的前沿发现，揭示了大脑如何将光子转化为认知这一神奇过程。内容在专业深度与大众可理解性间取得精妙平衡——从色彩感知的生物学原理到前庭系统维持平衡的工程学设计，最终落点于神经可塑性带来的医学启示。主持人成功提取了复杂系统中的普适规律，使听众得以用全新视角理解自身的感知体验与行为决策。",
+    "best_quote_en": "The retina isn't just a camera capturing light - it's the conductor orchestrating our biological rhythms through melanopsin's non-visual photoreception.",
+    "best_quote_zh": "视网膜不仅是接收光线的相机，更是通过黑视蛋白进行非视觉光感应的生物节律指挥家。"
   }]
