@@ -1180,4 +1180,49 @@
     "summary_zh": "本次对话超越了普通创作访谈，揭示了米勒反叛美学的哲学根基。通过亚里士多德的卓越理论到喷溅墨水的随机美感，展现了传统技艺在数字时代的独特价值。米勒对'推墙'概念的阐释——不断质疑行业惯例与自我设限——为创意工作者提供了破除思维禁锢的方法论。其工具选择背后的深思(从黑翼铅笔到貂毛画笔)印证了媒介即讯息的艺术真理，而关于漫画分镜与电影叙事的比较分析，则为跨媒介叙事者架起了认知桥梁。",
     "best_quote_en": "\"Just go against an age of pathological conformity. Everywhere.\"",
     "best_quote_zh": "「就是要对抗这个病态趋同的时代。在每一个领域。」"
+  },{
+    "id": 53,
+    "title": "Andrew Cuomo’s Long Goodbye",
+    "title_zh": "安德鲁·科莫的漫长告别",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/andrew-cuomos-long-goodbye",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "This analysis examines Andrew Cuomo's failed mayoral campaign as a case study in political obsolescence. While Cuomo leveraged his 50-year political legacy, the article reveals how his transactional approach and refusal to evolve alienated modern voters. The piece offers critical insights into generational shifts in progressive politics, demonstrated through Mamdani's coalition-building with Jewish and Muslim communities – a strategy Cuomo unsuccessfully attempted to co-opt. Particularly compelling is the paradox of Cuomo attacking policies he once championed, exposing the emptiness of his ideological core. The analysis questions whether prolonged political exposure becomes a liability in eras demanding authenticity, suggesting Cuomo's tactics belong to a pre-MeToo, pre-BLM political paradigm.",
+    "summary_zh": "本文通过科莫竞选的失败，揭示了传统政治强人在新时代的困境。科莫试图用半个世纪的经验碾压年轻对手，却反被进步派联盟的多元策略击败。文章精彩呈现了政治代际更替的必然性——当老派政客仍在操弄分裂战术时，新生代已通过跨信仰联盟重构了选举版图。科莫抄袭对手策略的笨拙尝试，恰暴露其缺乏核心价值的空洞本质。这场选举不仅终结了科莫王朝，更标志着纽约政治从强人主导转向草根联盟的新阶段。",
+    "best_quote_en": "\"Who was leading the state?\" Mamdani practically yelled back, relishing every syllable.",
+    "best_quote_zh": "“当时是谁在领导州政府？”曼达尼几乎喊了出来，每个音节都透着讥讽。"
+  },
+  {
+    "id": 54,
+    "title": "Digital Entry Europe/Text Scammers/Mumbai’s 2nd Airport",
+    "title_zh": "欧洲数字入境系统/短信诈骗团伙/孟买第二机场",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/digital-entry-europe-text-scammers-mumbais-2nd-airport/",
+    "tags": [
+      "update",
+      "cybersecurity",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "网络安全",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "This newsletter offers a compelling mix of technological updates and societal insights. Europe's EES border system presents an efficiency-privacy paradox that will redefine travel norms, while the $15B cryptocurrency seizure exposes the alarming scale of organized cybercrime. Mumbai's new airport symbolizes infrastructure progress in emerging markets, though its phased implementation warrants monitoring. The Time Out neighborhood list stands out for its authentic local perspectives, contrasting with algorithm-driven travel recommendations. Collectively, these pieces reveal interconnected patterns of digital transformation, global mobility challenges, and the tension between systemic efficiency and individual autonomy in modern society.",
+    "summary_zh": "本期通讯揭示了数字时代的多面性：欧洲边境系统在提升效率的同时引发隐私担忧，15亿美元加密货币扣押案暴露网络犯罪的工业化运作，孟买新机场反映了新兴市场的基础设施博弈。最具启发性的是《Time Out》街区榜单，它摒弃商业干扰，聚焦城市原生魅力，为旅行者提供了对抗算法同质化的珍贵指南。这些内容共同描绘了技术革新与人文价值交织的当代图景。",
+    "best_quote_en": "These places represent the soul of our cities, maintaining unique local character that draws people to live, work and play - unlike algorithm-driven recommendations that flatten cultural complexity.",
+    "best_quote_zh": "这些地方体现了我们城市的灵魂，保持着独特的本地特色，吸引人们前来生活、工作和娱乐——与那些消除文化复杂性的算法推荐截然不同。"
   }]
