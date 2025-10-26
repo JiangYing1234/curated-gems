@@ -1272,4 +1272,51 @@
     "summary_zh": "本文提出'正统特权'这一深刻概念，揭示主流思维者难以察觉自身认知局限的现象。文章超越简单的言论自由讨论，触及认知结构的深层机制——当一个人的思想完全符合时代正统时，会天然丧失感知'不可言说真相'的能力。这种特权与历史周期中反复出现的认知禁锢形成强烈映照，作者尖锐指出：认为我们时代独特地摆脱了这种模式，在统计学上是近乎天真的假设。最具启发性的是关于'如何与正统特权者对话'的探讨——就像承认他人能听到自己听不见的高频声音，对认知差异保持基本尊重或许比强行说服更有建设性。这种分析为当前社会的极化对话提供了新颖的哲学视角。",
     "best_quote_en": "The more conventional-minded someone is, the more it seems to them that it's safe for everyone to express their opinions. They literally can't imagine a true statement that would get you in trouble.",
     "best_quote_zh": "一个人的思想越符合主流，就越认为所有人表达观点都是安全的。他们根本无法想象存在说了会惹麻烦的真实陈述。"
+  },{
+    "id": 57,
+    "title": "It’s great to see pregnant women in the public eye – but must they all be so gorgeous? | Coco Khan",
+    "title_zh": "孕妇公众形象值得肯定，但为何都要如此光鲜靓丽？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/22/its-great-to-see-pregnant-women-in-the-public-eye-but-must-they-all-be-so-gorgeous",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This incisive critique examines the paradoxical celebration of pregnant visibility in modern media. While acknowledging progress in representing motherhood, the article exposes how brands like Victoria's Secret co-opt pregnancy narratives through hyper-glamourized models, creating new unrealistic standards that erase the physical realities of gestation. Khan's analysis reveals the commercial calculus behind 'empowerment marketing,' where radical body acceptance gets reduced to aesthetic tokenism. The piece challenges readers to distinguish between genuine representation and corporate opportunism, questioning whether fashion's pregnancy moment advances bodily autonomy or simply repackages patriarchal expectations. Particularly valuable is the historical context contrasting Demi Moore's groundbreaking 1991 photoshoot with contemporary iterations, highlighting stalled progress in authentic portrayals.",
+    "summary_zh": "本文犀利指出商业社会对孕妇形象的精致化包装如何异化了身体自主权。作者在肯定公众可见度提升的同时，揭示维多利亚秘密秀场选择孕晚期超模的本质仍是消费主义对女性经验的挪用。当怀孕仅以光鲜形象呈现时，实则在建构新的身体焦虑——连孕期都需保持完美体态。这种虚假赋权背后，暴露出资本对女性议题的功利性利用，恰如荷马辛普森那句台词：『我不在乎，但不代表我不懂。』值得深思的是，1991年黛米摩尔的裸体孕照曾打破禁忌，三十年后我们却仍在争取真实多元的母体呈现。",
+    "best_quote_en": "Call me cynical, but I have a feeling Victoria’s Secret wouldn’t have sent a heavily pregnant model down the runway if she looked like most of us do at that stage.",
+    "best_quote_zh": "请说我愤世嫉俗，但我怀疑维多利亚的秘密若遇到像我们多数人那样孕相明显的模特，绝不会让她走上T台。"
+  },
+  {
+    "id": 58,
+    "title": "What if the Big Law Firms Hadn’t Caved to Trump?",
+    "title_zh": "如果大型律所没有向特朗普屈服会怎样？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-if-the-big-law-firms-had-not-caved-to-trump",
+    "tags": [
+      "solve",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "This incisive analysis examines the pivotal role of corporate legal capitulation in enabling authoritarian overreach. Through the case study of Paul, Weiss's settlement with the Trump administration, the article exposes how institutional self-preservation instincts undermined constitutional safeguards. The piece raises profound questions about professional ethics in crisis moments, contrasting historical civil rights advocacy with contemporary failures to defend judicial independence. By framing law firms as both guardians and potential weak points in democratic infrastructure, it challenges readers to reconsider the social contract binding legal professionals to systemic integrity. The most compelling insight emerges through the Waterfront analogy - that systemic collapse begins not with overt attacks but through gradual erosion of protective responsibilities.",
+    "summary_zh": "本文通过大型律所屈服于政治压力的案例，揭示了专业机构在权力面前的道德困境。文章将当前法治危机与律所历史荣耀对比，提出尖锐质问：当短期利益与法治原则冲突时，法律精英究竟守护什么？这种对职业伦理的拷问，不仅关乎美国宪政危机，更为所有依赖专业阶层的现代社会敲响警钟。",
+    "best_quote_en": "The true administration of justice is the firmest pillar of good government.",
+    "best_quote_zh": "公正的司法是良政最坚实的支柱。"
   }]
