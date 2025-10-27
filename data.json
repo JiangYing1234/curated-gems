@@ -1319,4 +1319,49 @@
     "summary_zh": "本文通过大型律所屈服于政治压力的案例，揭示了专业机构在权力面前的道德困境。文章将当前法治危机与律所历史荣耀对比，提出尖锐质问：当短期利益与法治原则冲突时，法律精英究竟守护什么？这种对职业伦理的拷问，不仅关乎美国宪政危机，更为所有依赖专业阶层的现代社会敲响警钟。",
     "best_quote_en": "The true administration of justice is the firmest pillar of good government.",
     "best_quote_zh": "公正的司法是良政最坚实的支柱。"
+  },{
+    "id": 59,
+    "title": "News: São Tomé and Príncipe collection published after 13 years",
+    "title_zh": "新闻：圣多美和普林西比短篇小说集历经13年终出版",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/10/22/news-sao-tome-and-principe-collection-published-after-13-years/",
+    "tags": [
+      "update",
+      "society",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This extraordinary account of literary perseverance reveals how collaborative passion can bridge cultural gaps in global literature. The 13-year journey from makeshift volunteer translation to official publication demonstrates the growing demand for underrepresented voices in world literature. Beyond its value as a cultural artifact, the collection's evolution reflects shifting paradigms in publishing – where digital-era connectivity enables grassroots efforts to challenge traditional gatekeeping. The story raises critical questions about linguistic hegemony in literature while celebrating human ingenuity in overcoming systemic barriers. As AI translation advances, this case study offers a poignant counterpoint, highlighting the irreplaceable value of human-driven cultural exchange.",
+    "summary_zh": "这部短篇小说集的出版历程堪称文化韧性的生动注脚。十三年前由志愿者自发翻译的文本，最终通过专业出版走向世界，不仅体现了小众文学传播的艰难，更揭示了数字时代民间文化力量的可能性。这种‘由下而上’的文学抢救行动，为保护小语种文化遗产提供了新思路，也让我们反思主流出版体系中的权力结构。当科技巨头纷纷布局AI翻译时，这个充满人文温度的故事提醒我们：真正的文化桥梁，始终需要人类的理解与共情作为基石。",
+    "best_quote_en": "The creation of this translation remains one of the most heartwarming and encouraging examples I've encountered of how stories can bring us together.",
+    "best_quote_zh": "这个翻译项目的诞生，是我所见过最温暖动人的例证——故事如何将我们紧密相连。"
+  },
+  {
+    "id": 60,
+    "title": "Coronavirus and Credibility",
+    "title_zh": "冠状病毒与可信度",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/cred.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-10-27",
+    "summary_en": "This incisive critique uses the COVID-19 pandemic as a litmus test for institutional credibility, exposing how crisis situations uniquely reveal the bankruptcy of authoritative posturing. The analysis makes a compelling case that epidemics serve as epistemological accelerators - compressing the timeline for truth verification that normally allows false experts to escape accountability. By contrasting pandemic reality checks with the 'mushy outcomes' of political rhetoric, the piece raises urgent questions about epistemic responsibility in public discourse. The Buffett analogy powerfully frames the pandemic as a historical stress test, challenging readers to reconsider how we evaluate expertise in an age of rapid information decay.",
+    "summary_zh": "本文以疫情为镜，照见权威话语的脆弱性。当潮水般的确诊数据褪去修饰，裸泳者的无知便无所遁形——这种对公共话语可信度的压力测试，揭示了危机事件如何加速真相浮出水面。作者提出一个深刻命题：我们是否正在见证专家权威体系的重新校准？这种思考超越了疫情本身，指向现代社会中信任机制的深层危机。",
+    "best_quote_en": "\"It's only when the tide goes out that you learn who's been swimming naked.\" - Warren Buffett",
+    "best_quote_zh": "「只有当潮水退去，你才知道谁在裸泳。」——沃伦·巴菲特"
   }]
