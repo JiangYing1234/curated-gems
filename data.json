@@ -1385,4 +1385,95 @@
     "summary_zh": "这篇幽默而深刻的家常散文揭示了育儿经历中的认知矛盾：我们如何在深切爱恋中体会无聊，在天才语言能力中发现幼稚逻辑。作者通过自嘲式的育儿糗事，展现了现代父母普遍面临的社交困境与存在主义焦虑。文中对幼儿代词混淆现象的分析，意外成为理解人类语言习得过程的微型案例研究。",
     "best_quote_en": "You can be simultaneously completely obsessed with and dramatically bored by the same person.",
     "best_quote_zh": "你可能会对同一个人既完全着迷又感到极度无聊。"
+  },{
+    "id": 62,
+    "title": "Book of the month: Bachtyar Ali",
+    "title_zh": "本月推荐书籍：巴赫蒂亚尔·阿里",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/10/30/book-of-the-month-bachtyar-ali/",
+    "tags": [
+      "inspire",
+      "writing-content",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "写作内容",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "Bachtyar Ali's 'The Last Pomegranate Tree' emerges as a profound exploration of human resilience and interconnectedness through the lens of Kurdish experience. The novel's lyrical prose, masterfully translated by Kareem Abdulrahman, transcends magical realism to reveal existential truths about collective trauma and compassion. Ali's narrative structure ingeniously incorporates readers as participants in Muzafar's journey, challenging Western literary conventions of time and perspective. Particularly striking is the juxtaposition between bureaucratic rhetoric and grassroots activism in the streetseller dialogue - a sharp critique of societal indifference. While celebrating Kurdish literary heritage, the work raises urgent questions about cultural representation in global publishing. The discovery of this masterpiece through a local UK publisher underscores the vital role of independent presses in diversifying literary landscapes.",
+    "summary_zh": "这部库尔德文学杰作通过诗意的魔幻现实主义，深刻探讨战争创伤与人际羁绊。作者将读者巧妙纳入叙事框架，打破东西方文学传统的时间观。街头小贩与记者的对话片段尤其发人深省，揭示特权阶层对底层苦难的结构性漠视。作品既是对民族记忆的文学重构，也见证了独立出版社在文化传播中的关键作用——英国小镇发现的这部杰作，正是全球文学多元化的生动注脚。",
+    "best_quote_en": "\"A person is a star that does not fall alone. Who knows where the echo will reverberate when we leave this earth? Perhaps someone will rise from our ashes in another time and realize they have been burned by the flame of our fall.\"",
+    "best_quote_zh": "「人是一颗不会独自坠落的星辰。当我们离开尘世，回响将在何处震荡？或许在另一个时空，有人会从我们的灰烬中崛起，发现自己已被我们坠落时的火焰灼伤。」"
+  },
+  {
+    "id": 63,
+    "title": "The Mamdani Era Begins",
+    "title_zh": "曼达尼时代开启",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/our-local-correspondents/the-mamdani-era-begins",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "This analysis examines Zohran Mamdani's historic mayoral victory as a paradigm shift in New York City politics. The article juxtaposes Mamdani's idealistic platform against the cynical machine politics of predecessors like Adams and Cuomo, framing his win as both a rejection of establishment corruption and a test case for progressive urban governance. The piece gains analytical depth through historical parallels with Tammany Hall-era reforms, raising critical questions about whether ideological purity can withstand institutional inertia. While celebrating the campaign's grassroots energy, the analysis maintains healthy skepticism about long-term implementation challenges, particularly regarding police reform and real estate interests. The inclusion of Obama's cautious endorsement versus Dimon's reluctant acceptance adds nuance to the establishment-progressive dynamic.",
+    "summary_zh": "本文通过曼达尼的胜选剖析纽约政治生态的结构性转变，将年轻进步派的理想主义与建制派腐败机器进行多维对比。文章巧妙运用坦慕尼协会历史案例，既展现改革浪潮的周期性规律，又质疑单纯依靠个人魅力突破体制困境的可行性。在肯定穆斯林和南亚群体政治觉醒的同时，作者冷静指出市长权力架构与房地产资本的内在矛盾，为这场左翼实验保留了批判性观察空间。",
+    "best_quote_en": "'What I don't have in experience, I make up for in integrity—and what you don't have in integrity, you could never make up for in experience.'",
+    "best_quote_zh": "'我缺乏的经验用诚信弥补，而你缺失的诚信永远无法用经验填补。'"
+  },
+  {
+    "id": 64,
+    "title": "DALL•E 2",
+    "title_zh": "DALL•E 2",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/dall-star-e-2",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2022-04-06",
+    "summary_en": "The introduction of DALL•E 2 marks a pivotal moment in AI's creative capabilities, demonstrating unprecedented image generation through natural language commands. Beyond its technical prowess, the tool challenges conventional assumptions about AI's developmental trajectory - notably reversing the predicted order of automation from physical labor to creative work first. This shift carries profound implications for labor markets, particularly threatening traditional creative professions while simultaneously enhancing human creativity through collaborative AI tools. The article thoughtfully balances enthusiasm for enhanced creative expression with ethical considerations about job displacement and content manipulation. Its most compelling argument lies in reframing AI as a catalyst for redefining human-computer interaction paradigms, where conceptual thinking supersedes technical skill as the primary creative currency.",
+    "summary_zh": "DALL•E 2的推出不仅展示了AI在图像生成领域的突破性进展，更预示着一场人机交互范式的革命。工具背后的深层意义在于颠覆了我们对人工智能发展路径的认知——创造力不再是人类最后的堡垒，反而成为AI最先攻克的领域。这种技术飞跃既为艺术创作打开新维度，也迫使社会重新思考创意工作的未来价值。",
+    "best_quote_en": "It now looks like [AI's impact] is going to go in the opposite order: creative work first, then cognitive labor, then physical labor - completely inverting our previous understanding of automation's trajectory.",
+    "best_quote_zh": "人工智能的影响顺序正在逆转：从创造性工作开始，然后是认知劳动，最后才是体力劳动——这完全颠覆了我们之前对自动化发展路径的认知。"
+  },
+  {
+    "id": 65,
+    "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
+    "title_zh": "利用现有药物新途径治疗脑部与身体疾病 | David Fajgenbaum博士访谈",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/david-fajgenbaum-using-drugs-treat-diseases-brain-body",
+    "tags": [
+      "inspire",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "Dr. David Fajgenbaum's groundbreaking work challenges conventional medical paradigms by demonstrating how drug repurposing can address 'untreatable' conditions. His personal survival story with Castleman's disease serves as both inspiration and proof-of-concept for systematic drug rediscovery. The discussion reveals critical gaps in pharmaceutical incentives and medical education systems that hinder treatment innovation, while proposing concrete solutions through integrated disease mapping databases and AI-assisted prioritization. Particularly valuable is the emphasis on patient agency in treatment discovery processes and the ethical implications of withholding off-label treatment information. The conversation bridges clinical research with practical healthcare strategies, offering actionable pathways for both medical professionals and empowered patients to accelerate therapeutic breakthroughs.",
+    "summary_zh": "Fajgenbaum博士通过自身对抗Castleman病的经历，开创性地展示药物重定向治疗的革命性潜力。这种突破不仅挑战传统药物研发模式，更为「不治之症」患者带来实质希望。内容揭示医疗系统在知识共享和激励机制上的结构性缺陷，同时提出通过AI与疾病图谱数据库实现治疗突破的具体路径。特别具有启发意义的是强调患者在医疗创新中的主动角色，这为医患关系重构和精准医疗发展提供了新范式。",
+    "best_quote_en": "Escaping death from Castleman's disease required me to become both patient and researcher, discovering that the cure wasn't in developing new drugs but in seeing existing ones through new lenses.",
+    "best_quote_zh": "战胜Castleman病的经历让我意识到：治愈的关键不在于研发新药，而在于以新视角重新发现现有药物的潜力——患者必须同时成为自己生命的研究者。"
   }]
