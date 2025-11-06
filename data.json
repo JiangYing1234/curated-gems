@@ -1476,4 +1476,75 @@
     "summary_zh": "Fajgenbaum博士通过自身对抗Castleman病的经历，开创性地展示药物重定向治疗的革命性潜力。这种突破不仅挑战传统药物研发模式，更为「不治之症」患者带来实质希望。内容揭示医疗系统在知识共享和激励机制上的结构性缺陷，同时提出通过AI与疾病图谱数据库实现治疗突破的具体路径。特别具有启发意义的是强调患者在医疗创新中的主动角色，这为医患关系重构和精准医疗发展提供了新范式。",
     "best_quote_en": "Escaping death from Castleman's disease required me to become both patient and researcher, discovering that the cure wasn't in developing new drugs but in seeing existing ones through new lenses.",
     "best_quote_zh": "战胜Castleman病的经历让我意识到：治愈的关键不在于研发新药，而在于以新视角重新发现现有药物的潜力——患者必须同时成为自己生命的研究者。"
+  },{
+    "id": 66,
+    "title": "Jess Cartner-Morley on fashion: introducing the twinset 2.0 – where practicality meets panache",
+    "title_zh": "杰斯·卡特纳-莫利谈时尚：双件套2.0时代——实用主义与华丽风格的完美融合",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/05/jess-cartner-morley-winter-style-twinset-jumper-trend",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "This insightful fashion analysis revitalizes the classic twinset concept through a contemporary lens, revealing how post-pandemic sensibilities reshape sartorial choices. The article masterfully deconstructs the twinset's evolution from its prim 1950s origins to today's layered improvisations, positioning it as a cultural barometer of our desire for 'considered comfort'. What elevates the analysis is its recognition of fashion as personal semiotics – the artful drape of a sweater becomes both pragmatic temperature regulation and style statement. The piece resonates through its examination of generational style dialogues, where grandmotherly knits collide with art-school asymmetry. Particularly compelling is the observation that true fashion innovation now lives in styling alchemy rather than conspicuous consumption, making this trend both accessible and intellectually engaging for sustainability-conscious consumers.",
+    "summary_zh": "本文以敏锐的时尚触觉重新解构经典双件套的现代演绎，揭示后疫情时代着装哲学的本质转变。作者巧妙地将针织叠穿技巧提升为文化符号，既体现了实用主义与美学追求的平衡，又折射出当代消费者对'低调奢华'的情感需求。文中对时尚民主化的思考尤其发人深省——当高级搭配技巧不再依赖昂贵单品，日常衣橱便获得了新生。这种着装智慧既承袭了英伦叠穿传统，又突破了年龄与阶层的界限，为现代职场女性提供了兼具温度与风度的解决方案。",
+    "best_quote_en": "The joy of a twinset is that the extra jumper adds practicality plus panache – a tiny, wearable extravagance that winks at maximalism while keeping you cosy.",
+    "best_quote_zh": "双件套的魅力在于多出的那件针织衫既增添了实用性，又平添了一份潇洒气质——这种可穿戴的精致奢侈，在向你眨眼挑逗极繁主义的同时，始终保持着温暖的拥抱。"
+  },
+  {
+    "id": 67,
+    "title": "Free Press / Building Stories",
+    "title_zh": "自由媒体／建筑故事",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/free-press-building-stories/",
+    "tags": [
+      "update",
+      "design",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "This dual analysis reveals two groundbreaking works that redefine their mediums. 'Free Press' serves as a vital historical document, capturing the raw energy of 1960s counterculture through underground newspapers' visual rebellion. Its value lies not just in archival preservation but in demonstrating how grassroots media shapes social movements - a crucial reference for designers studying protest aesthetics and historians analyzing pre-digital activism. Ware's 'Building Stories' challenges literary conventions through its experimental format, offering profound insights into urban isolation and existential anxiety. The work's true innovation lies in making readers physically engage with fragmented narratives, mirroring the characters' psychological dislocation. Both works transcend their formats: one resurrecting revolutionary design principles for modern creators, the other expanding graphic novels' emotional and structural possibilities.",
+    "summary_zh": "这两部作品分别以不同的形式重新定义了媒介的价值。《自由媒体》通过地下报刊的视觉革命，生动记录了1960年代反文化运动的精髓，为研究社会运动与平面设计的交融提供了珍贵素材。克里斯·韦尔的《建筑故事》则以突破性的多载体叙事，将都市人的存在焦虑转化为可触摸的阅读体验，开创了图像小说表现心理深度的新维度。两者共同展现了非主流创作如何推动文化演进，对当代创作者具有启示意义。",
+    "best_quote_en": "\"When I was designing bOING bOING I was inspired by the precious few samples of The East Village Other, The Realist, and The Gothic Blimp Works that I could find in used bookstores. I wish I’d had a copy of Free Press back then!\"",
+    "best_quote_zh": "「在设计《bOING bOING》杂志时，我从二手书店零散找到的《东村另类》、《现实主义者》等地下刊物中汲取灵感。若当时能拥有这本《自由媒体》，创作视野必将全然不同！」"
+  },
+  {
+    "id": 68,
+    "title": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+    "title_zh": "精华：减缓与逆转衰老的生物学 | David Sinclair博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-biology-slowing-reversing-aging-dr-david-sinclair",
+    "tags": [
+      "inspire",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "Dr. David Sinclair's groundbreaking discussion reveals aging as a malleable biological process rather than an inevitable fate. The Harvard geneticist presents compelling evidence that lifestyle interventions like intermittent fasting, strategic exercise, and NAD+ precursors (NMN) can activate sirtuin pathways to potentially reverse epigenetic aging markers. While the science remains complex, Sinclair's ability to translate cellular mechanisms into practical strategies offers genuine hope for extending healthspan. The episode's most valuable contribution lies in demonstrating how basic biological understanding empowers individuals to take concrete anti-aging actions, though critical listeners might question the commercial interests surrounding NMN supplements. This conversation bridges cutting-edge research with everyday applications, making longevity science accessible without oversimplification.",
+    "summary_zh": "David Sinclair博士从根本上改变了我们对衰老的认知——从不可逆转的生命进程转变为可干预的生物学现象。通过阐释表观遗传调控机制与生活方式的内在联系，他提出了'衰老可逆'的大胆主张。其中关于禁食模式激活长寿蛋白、运动增强细胞自噬的论述，为普通人提供了切实可行的抗衰路径。但需警惕将复杂生物过程过度简化为'灵丹妙药'的商业化倾向，真正科学的抗衰应建立在系统认知而非碎片化方案之上。这种将基础科研转化为生活智慧的跨界对话，展现了现代医学的人文关怀。",
+    "best_quote_en": "The greatest discovery in aging research isn't a pill or gene therapy—it's realizing we already possess the evolutionary toolkit to influence our biological age through daily choices.",
+    "best_quote_zh": "衰老研究最伟大的发现不是某种药片或基因疗法，而是认识到我们早已拥有通过日常选择影响生理年龄的进化工具箱。"
   }]
