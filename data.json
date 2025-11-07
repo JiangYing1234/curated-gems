@@ -1547,4 +1547,71 @@
     "summary_zh": "David Sinclair博士从根本上改变了我们对衰老的认知——从不可逆转的生命进程转变为可干预的生物学现象。通过阐释表观遗传调控机制与生活方式的内在联系，他提出了'衰老可逆'的大胆主张。其中关于禁食模式激活长寿蛋白、运动增强细胞自噬的论述，为普通人提供了切实可行的抗衰路径。但需警惕将复杂生物过程过度简化为'灵丹妙药'的商业化倾向，真正科学的抗衰应建立在系统认知而非碎片化方案之上。这种将基础科研转化为生活智慧的跨界对话，展现了现代医学的人文关怀。",
     "best_quote_en": "The greatest discovery in aging research isn't a pill or gene therapy—it's realizing we already possess the evolutionary toolkit to influence our biological age through daily choices.",
     "best_quote_zh": "衰老研究最伟大的发现不是某种药片或基因疗法，而是认识到我们早已拥有通过日常选择影响生理年龄的进化工具箱。"
+  },{
+    "id": 69,
+    "title": "How to Write Usefully",
+    "title_zh": "如何写出有用的文章",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/useful.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "Paul Graham's essay challenges conventional notions of essay writing by proposing a four-component framework for usefulness: correctness, novelty, importance, and strength. Through precise examples like the Pike's Peak analogy, he demonstrates how to balance truth with specificity. The Morris technique of selective publishing emerges as a radical editing philosophy, prioritizing quality over quantity through ruthless self-censorship. While advocating for bold simplicity, Graham acknowledges the social cost of challenging cherished beliefs - a tension between intellectual integrity and reader reception. The most compelling insight lies in framing essays as discovery tools rather than mere communication vehicles, suggesting the internet enables a new renaissance of undiscovered ideas through accessible essay writing.",
+    "summary_zh": "本文颠覆了传统议论文的写作范式，提出有用性写作的四维模型：正确性、新颖性、重要性和力度。作者通过皮克峰的地理比喻，巧妙阐释精确与真实的辩证关系。莫里斯式严苛删改法则展现了对思想品质的极致追求，但可能忽视写作过程中的思维成长价值。当互联网时代遇上古典文体，不仅释放了写作自由，更预示着思想勘探的新边疆——那些藏匿在认知盲区中的真理碎片，正等待散文家们的 linguistic pickaxes 去开掘。",
+    "best_quote_en": "Useful writing makes claims that are as strong as they can be made without becoming false.",
+    "best_quote_zh": "有用的写作要在不违背真实性的前提下，尽可能提出强有力的主张。"
+  },
+  {
+    "id": 70,
+    "title": "Helion",
+    "title_zh": "Helion",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/helion",
+    "tags": [
+      "inspire",
+      "leadership",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "领导管理",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2021-11-05",
+    "summary_en": "The analysis reveals Helion's fusion energy breakthrough as a potential game-changer in both climate solutions and energy economics. While acknowledging the staggering implications of 1¢/kWh electricity, the text invites critical reflection: Can Helion's startup agility truly outpace government-funded fusion projects? The 2024 net electricity target appears ambitious given fusion's historical challenges, yet the founders' track record of delivering functional generators with modest funding warrants attention. Beyond environmental applications, the piece provocatively hints at energy-driven societal transformation - challenging readers to imagine how ultra-cheap power might redefine industrial capabilities and quality of life metrics.",
+    "summary_zh": "本文揭示了Helion在核聚变能源领域的突破性进展，不仅为气候危机提供潜在解决方案，更可能引发能源经济的范式转移。作者通过亲身投资经历，展现了初创企业以小预算挑战国家级科研项目的可能性。文中2024年净发电目标既彰显雄心也隐含风险，而每度电一美分的远期设想则指向能源价格重构带来的社会变革。这种技术突破不仅关乎环境保护，更暗含了对未来工业生产模式和人类生活质量的重新定义。",
+    "best_quote_en": "Helion has a clear path to net electricity by 2024, and has a long-term goal of delivering electricity for 1 cent per kilowatt-hour.",
+    "best_quote_zh": "Helion明确了在2024年实现净发电的路径，并设定了每千瓦时1美分的长期供电目标。"
+  },
+  {
+    "id": 71,
+    "title": "Essentials: Erasing Fears & Traumas Using Modern Neuroscience",
+    "title_zh": "现代神经科学消除恐惧与创伤的核心方法",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-erasing-fears-traumas-using-modern-neuroscience",
+    "tags": [
+      "learn",
+      "psychology"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This neuroscience exploration reveals groundbreaking approaches to trauma processing that challenge conventional therapeutic models. The article's core innovation lies in its dual-pathway framework: successful treatment requires not just extinguishing fear responses but actively replacing them with positive neural associations. Particularly compelling is the evidence showing how brief, deliberate stress exposure through cyclic hyperventilation can rewire fear circuits – a finding that bridges ancient breathing practices with modern neurobiology. The discussion on social connection's role in trauma recovery offers crucial insights into how relational neuroscience could reshape therapeutic paradigms. While the supplementation recommendations warrant cautious interpretation, the integration of CBT, exposure therapy, and neurochemical interventions presents a multidimensional approach that merits clinical attention. This work significantly advances our understanding of fear memory reconsolidation while raising important questions about optimizing treatment sequencing and individual variability in trauma responses.",
+    "summary_zh": "本文突破性地提出创伤治疗需要'消除+替代'的双轨神经重塑机制，将传统暴露疗法推向新维度。五分钟压力训练法巧妙结合现代神经科学与古老呼吸术，为自我调节提供可操作方案。关于社会连接激活神经修复通路的论述，揭示了人际关系在心理康复中的生物学基础，这对后疫情时代的心理健康建设具有重要启示。",
+    "best_quote_en": "Successful fear treatment requires both extinction of the old fearful response and replacement with a new positive association—not just cognitive reframing.",
+    "best_quote_zh": "成功的恐惧治疗需要同时消除旧的恐惧反应并用新的积极联想替代——而不仅仅是认知重构。"
   }]
