@@ -1614,4 +1614,27 @@
     "summary_zh": "本文突破性地提出创伤治疗需要'消除+替代'的双轨神经重塑机制，将传统暴露疗法推向新维度。五分钟压力训练法巧妙结合现代神经科学与古老呼吸术，为自我调节提供可操作方案。关于社会连接激活神经修复通路的论述，揭示了人际关系在心理康复中的生物学基础，这对后疫情时代的心理健康建设具有重要启示。",
     "best_quote_en": "Successful fear treatment requires both extinction of the old fearful response and replacement with a new positive association—not just cognitive reframing.",
     "best_quote_zh": "成功的恐惧治疗需要同时消除旧的恐惧反应并用新的积极联想替代——而不仅仅是认知重构。"
+  },{
+    "id": 72,
+    "title": "Being a Noob",
+    "title_zh": "菜鸟生存指南",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/noob.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2025-11-08",
+    "summary_en": "This insightful essay reframes the discomfort of being a novice as an intellectual advantage in modern society. The author presents a compelling paradox: the acute awareness of one's ignorance in specific domains (local noobness) inversely correlates with true global ignorance. By contrasting ancestral needs for domain-specific competence with modern demands for adaptive learning, the piece challenges our evolutionary aversion to novelty. Particularly noteworthy is the biological analogy comparing our outdated disdain for 'noobness' to maladaptive responses to abundant food - a clever framework for understanding 21st-century learning challenges. While the argument persuasively advocates for embracing uncertainty, it leaves room for questioning how this theory applies to expertise-dependent fields like medicine or aviation where novice mistakes carry higher stakes.",
+    "summary_zh": "本文颠覆性地将'菜鸟体验'重新定义为现代社会的认知优势。作者通过生物学类比揭示：我们对陌生领域的不适感，实质是智识扩张的证明。在技术迭代加速的时代，保持'局部无知'反而成就'全局认知'。这种反直觉的洞察为终身学习者提供了全新的自我认知框架，但同时也引发深思——在需要高度专业化的领域，如何平衡探索精神与专业精进？",
+    "best_quote_en": "The more of a noob you are locally, the less of a noob you are globally.",
+    "best_quote_zh": "你在局部领域越像菜鸟，在全局认知上就越非菜鸟。"
   }]
