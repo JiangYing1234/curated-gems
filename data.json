@@ -1752,4 +1752,25 @@
     "summary_zh": "本文突破性地将淋巴系统功能与外在容貌改善相结合，揭示了运动模式和呼吸机制对无泵淋巴循环的生物力学原理。作者创新性地提出'睡眠体位-脑脊液代谢-认知功能'三联关系，为抗衰领域提供了新视角。尽管在美容应用方面稍显激进，但其将基础生理机制转化为日常可操作方案的方法，体现了功能医学的实践价值。针对现代人普遍存在的脑雾和面部浮肿问题，文中介绍的侧卧睡姿调整和手动引流技术具有即时应用意义。",
     "best_quote_en": "Your lymphatic system requires the mechanical poetry of movement - the rhythmic compression from muscle contractions, the hydraulic dance of diaphragmatic breathing - to perform its vital cleansing symphony.",
     "best_quote_zh": "淋巴系统需要运动产生的机械力量——肌肉收缩的节律性挤压，横膈膜呼吸的液压舞蹈——来演奏它至关重要的清洁交响曲。"
+  },{
+    "id": 78,
+    "title": "Haters",
+    "title_zh": "Haters",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fh.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "This insightful analysis reframes our understanding of obsessive criticism by revealing haters as inverted fanboys - both being manifestations of identity-driven extremism. The author's breakthrough equivalence (haters = fanboys with inverted polarity) provides a powerful mental model for processing irrational attacks. Particularly valuable is the observation that haters fundamentally operate through confirmation bias, constructing self-reinforcing narratives of fraudulence that ignore contradictory evidence. The psychological profile of haters as individuals with frustrated ambitions offers practical guidance: recognizing their projections as reflections of personal inadequacies rather than substantive criticism. While the advice to ignore haters seems simple, the underlying framework transforms this from dismissive avoidance to strategic disengagement based on understanding human behavioral patterns.",
+    "summary_zh": "本文通过揭示黑子本质是逆向粉丝，提出了理解非理性攻击的新范式。作者将黑子与脑残粉进行镜像对比，展现了极端情感认同的双向病理机制。核心洞见在于指出两者共享的身份构建需求——通过极端评价确立自我定位。关于黑子多源于挫败天赋者的分析，为公众人物提供了重要心理缓冲：攻击更多反映批评者的自我缺失而非被批评者的实际缺陷。文中最具实践价值的是将应对策略系统化，从认知层面完成从'个人恩怨'到'群体现象'的思维升级，这种视角转换能有效降低情感消耗。对'欺诈指控'作为黑子光谱特征的剖析，尤其有助于在信息噪音中识别恶意攻击。",
+    "best_quote_en": "Haters are just fanboys with the sign switched. They create an image of you in their own head that is much worse than reality... Their dislike for you is not a quiet, private one. They want everyone to know how awful you are.",
+    "best_quote_zh": "黑子不过是符号反转的脑残粉。他们在脑中构建远劣于现实的形象…他们的厌恶从不静默私密，总要世人皆知你的'不堪'。"
   }]
