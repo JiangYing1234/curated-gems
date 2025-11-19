@@ -1907,4 +1907,75 @@
     "summary_zh": "本文深刻揭示了特朗普赦免权的滥用如何重构美国司法体系。通过将总统特赦转化为政治忠诚的交易货币，作者指出这实质建立了'双轨制司法'——盟友获得法外豁免，而普通民众仍需面对法律审判。特别值得警惕的是赦免权的商业化趋势，以及其对宪法精神的腐蚀。尽管当前民意已显示反弹迹象，这种权力扩张模式可能为未来行政越权开创危险先例。",
     "best_quote_en": "The pardon economy presents the possibility that, if you’re nice enough to the President, a jury’s judgment might be set aside.",
     "best_quote_zh": "赦免经济意味着，只要你对总统足够友好，陪审团的判决就可能被搁置。"
+  },{
+    "id": 85,
+    "title": "The Creative Architect / How to Talk to Girls at Parties",
+    "title_zh": "创意建筑师 / 如何在派对上与女孩交谈",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-creative-architect-how-to-talk-to-girls-at-parties/",
+    "tags": [
+      "solve",
+      "design",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "This dual analysis reveals fascinating contrasts in creative exploration. The architectural study offers a historical lens into midcentury design thinking, exposing how researchers grappled with quantifying creativity through personality assessments. While lacking concrete formulas, its value lies in documenting iconic architects' self-perceptions and the era's psychological frameworks. The Gaiman adaptation demonstrates how visual storytelling elevates literary themes - Moon and Bá's art transforms adolescent social anxiety into a surreal metaphor for human connection. Both works ultimately challenge simplistic notions of creativity: one through empirical study limitations, the other through narrative ambiguity. Together they suggest true innovation resists quantification and thrives in interpretive spaces between data and imagination.",
+    "summary_zh": "两项创作研究揭示了艺术思维的不同维度。建筑研究档案展现了上世纪中叶对创造力的量化尝试，虽未得出突破结论，却意外记录了大师们的自我认知局限与时代研究方法特征。漫画改编则通过视觉语言重构青春困惑，将社交焦虑升华为存在主义隐喻。两者共同指向创作的本质：真正的创新往往诞生于标准框架之外，在理性分析与直觉表达的张力间蓬勃发展。",
+    "best_quote_en": "\"What propels creativity is the unfettered expression of the self... creative individuals consistently safeguard their self-determination to pursue what interests them no matter what, in a fierce escape from conformism.\"",
+    "best_quote_zh": "“创造力的推动力在于无拘无束的自我表达……创新者始终捍卫自主权，不顾一切追求兴趣所在，激烈逃离思维与行为的趋同性。”"
+  },
+  {
+    "id": 86,
+    "title": "PG and Jessica",
+    "title_zh": "保罗·格雷厄姆与杰西卡",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/pg-and-jessica",
+    "tags": [
+      "analyze",
+      "leadership",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "领导管理",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2020-09-25",
+    "summary_en": "This analysis reveals Y Combinator's success as fundamentally human-driven rather than structural. PG and Jessica Livingston's unique combination of personal conviction, founder-centric philosophy, and ecosystem-building through calculated generosity created an unreplicable model. Their willingness to challenge industry norms and prioritize long-term community over short-term profits demonstrates that true network effects emerge from values alignment rather than mere scaling tactics. The piece raises critical questions about modern startup culture's obsession with replicable frameworks, suggesting we've undervalued the role of principled leadership and anti-greed strategies in building enduring institutions. The authors' insights challenge accelerator copycats to examine their own motivations and capacity for sacrifice.",
+    "summary_zh": "本文揭示了YC成功的本质并非可复制的模式，而是创始人的价值观选择。PG和杰西卡通过建立非贪婪的生态系统、坚持创始人优先原则、以及投入大量时间培育社区，创造了一个反直觉的创业支持范式。这对当下中国创业生态的启示在于：真正持久的创新网络需要建设者超越短期利益，忍受被传统权力结构排斥的风险。",
+    "best_quote_en": "The entire secret to YC getting going was PG and Jessica—there was no other magic trick.",
+    "best_quote_zh": "YC成功的全部秘诀就在于保罗·格雷厄姆和杰西卡——除此之外没有其他魔法。"
+  },
+  {
+    "id": 87,
+    "title": "Everything I wish I’d known before I decided to freeze my eggs at 36",
+    "title_zh": "36岁冻卵前我希望知道的一切",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/nov/16/everything-i-wish-i-had-known-before-i-decided-to-freeze-my-eggs",
+    "tags": [
+      "guide",
+      "medicine",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "医学健康",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "This candid first-person account demystifies egg freezing through lived experience and expert insights, revealing critical gaps between societal perceptions and medical realities. The author exposes systemic issues in fertility commercialization while balancing practical advice about clinic selection, cost considerations, and biological limitations. Particularly valuable is the nuanced exploration of success rate mathematics versus emotional investment, challenging the 'reproductive insurance' narrative. The analysis raises important questions about gender equity in reproductive technology and the ethics of corporate-sponsored fertility benefits. While offering concrete guidance on medication protocols and lifestyle adjustments, it maintains scientific rigor by emphasizing age-related biological constraints and the distinction between egg preservation and guaranteed parenthood.",
+    "summary_zh": "本文通过个人经历与专业见解，揭示了冻卵技术背后的复杂现实。作者在医学建议与情感考量间取得平衡，既剖析成功率的数据真相，又直面社会对女性生育的隐性压力。文章批判性地审视商业化生育产业的同时，为读者提供了切实的诊所选择标准和费用评估框架，展现科技承诺与生物限制间的永恒张力。",
+    "best_quote_en": "\"It gives you another option to try to become a parent using your own genetic material, but in no way does it guarantee that will happen.\"",
+    "best_quote_zh": "“这为你提供了使用自身遗传物质成为父母的另一种选择，但绝不保证一定能成功。”"
   }]
